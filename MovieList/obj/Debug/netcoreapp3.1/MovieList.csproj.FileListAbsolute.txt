@@ -1,0 +1,26 @@
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.exe
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.deps.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.dev.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.csprojAssemblyReference.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.csproj.CoreCompileInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfoInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfo.cs
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.genruntimeconfig.cache
+C:\Users\desha\source\repos\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.exe
+C:\Users\desha\source\repos\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.deps.json
+C:\Users\desha\source\repos\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.json
+C:\Users\desha\source\repos\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.dev.json
+C:\Users\desha\source\repos\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.dll
+C:\Users\desha\source\repos\MovieList\MovieList\bin\Debug\netcoreapp3.1\MovieList.pdb
+C:\Users\desha\source\repos\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.csprojAssemblyReference.cache
+C:\Users\desha\source\repos\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.csproj.CoreCompileInputs.cache
+C:\Users\desha\source\repos\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfoInputs.cache
+C:\Users\desha\source\repos\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfo.cs
+C:\Users\desha\source\repos\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.dll
+C:\Users\desha\source\repos\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.pdb
+C:\Users\desha\source\repos\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.genruntimeconfig.cache
